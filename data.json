@@ -3,72 +3,72 @@
     "id": 1,
     "name": "Asus StudioBook",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/asus-studiobook.jpg",
-    "price": "540",
+    "price": "540"
   },
   {
     "id": 2,
     "name": "Lenovo IdeaPad",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/lenovo-ideaPad.jpg",
-    "price": "750",
+    "price": "750"
   },
   {
     "id": 3,
     "name": "MacBook Pro",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/macbook-pro.jpg",
-    "price": "1200",
+    "price": "1200"
   },
   {
     "id": 4,
     "name": "Lenevo Yoga Duet",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/lenevo-yoga-duet.jpg",
-    "price": "1000",
+    "price": "1000"
   },
   {
     "id": 5,
     "name": "Asus Vivo Book",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/asus-vivo-book.jpg",
-    "price": "1720",
+    "price": "1720"
   },
   {
     "id": 6,
     "name": "Dell Inspiron 3583",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/dell-inspiron-3583.jpg",
-    "price": "1900",
+    "price": "1900"
   },
   {
     "id": 7,
     "name": "Hp Pavilion",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/hp-pavilion.jpg",
-    "price": "1430",
+    "price": "1430"
   },
   {
     "id": 8,
     "name": "Asus Zenbook",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/asus-zenbook.jpg",
-    "price": "870",
+    "price": "870"
   },
   {
     "id": 9,
     "name": "Dell Latitude 3510",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/dell-latitude-3510.jpg",
-    "price": "990",
+    "price": "990"
   },
   {
     "id": 10,
     "name": "Dell G15 Gaming",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/dell-g15-gaming.jpg",
-    "price": "800",
+    "price": "800"
   },
   {
     "id": 11,
     "name": "Hp NoteBook",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/hp-notebook.jpg",
-    "price": "750",
+    "price": "750"
   },
   {
     "id": 12,
     "name": "Hp Laptop 15-dw3048nx",
     "img": "https://raw.githubusercontent.com/amir-hossain113/laptop/main/laptop/hp-laptop-15-dw3048nx",
-    "price": "880",
+    "price": "880"
   }
 ]
